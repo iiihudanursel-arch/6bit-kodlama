@@ -1,2 +1,10 @@
-# 6bit-kodlama
-iki tek haneli sayıyı toplayıp sonucu 6-bit (00xxxx) ikili formatta gösteren basit C programı
+# 6-Bit Toplayıcı (C)
+
+Kullanıcıdan iki rakam alır, toplar ve sonucu `00xxxx` formatında 6-bit binary olarak gösterir.
+
+## Kullanım
+
+```bash
+gcc -o kodlama kodlama.c
+./kodlama
+
